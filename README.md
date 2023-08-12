@@ -3,31 +3,31 @@
 ## Types of Tumor
 
 ### 1. Benign Tumor
-*	- Non-cancerous
-*	- Capsulated
-*	- Non-invasive
-*	- Slow Growing
-*	- Do not metastasize (spread) to other parts of the body
-*	- Cells are normal
+	- Non-cancerous
+	- Capsulated
+	- Non-invasive
+	- Slow Growing
+	- Do not metastasize (spread) to other parts of the body
+	- Cells are normal
 ### 2. Malignant Tumor
-*	- Cancerous
-*	- Non-capsulated
-*	- Fast Growing
-*	- Metastasize (spread) to other parts of the body
-*	- Cells have large, dark nuclei; may have abnormal shape
+	- Cancerous
+	- Non-capsulated
+	- Fast Growing
+	- Metastasize (spread) to other parts of the body
+	- Cells have large, dark nuclei; may have abnormal shape
 
 ## Problem Statement: 
-* To classify whether the existing tumor is benign or malignant. Malignant Tumors require immediate attention and treatment.
+ To classify whether the existing tumor is benign or malignant. Malignant Tumors require immediate attention and treatment.
 
 ## Dataset: 
-* The dataset is derived from a test known as Fine needle aspiration.
-* {Fine needle aspiration is a type of biopsy procedure. In fine needle aspiration, a thin needle is inserted into an area of abnormal-appearing tissue or body fluid. As with other types of biopsies, the sample collected during fine needle aspiration can help make a diagnosis or rule out conditions such as cancer. Most fine needle aspirations are done on these areas:
-*  - breast
-*  - thyroid gland
-* lymph nodes in the neck, groin, or armpit}
+ The dataset is derived from a test known as Fine needle aspiration.
+ {Fine needle aspiration is a type of biopsy procedure. In fine needle aspiration, a thin needle is inserted into an area of abnormal-appearing tissue or body fluid. As with other types of biopsies, the sample collected during fine needle aspiration can help make a diagnosis or rule out conditions such as cancer. Most fine needle aspirations are done on these areas:
+  - breast
+  - thyroid gland
+ lymph nodes in the neck, groin, or armpit}
 
 ## Dataset Link: 
-* https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
+ https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
 
 ### Missing Values: None
 
